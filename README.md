@@ -32,10 +32,10 @@ BonkRaids is a discord bot designed to enhance Twitter raiding experience within
      - `followeetag`: The twitter account to follow (optional)
      - `followamount`: Follow (SOL or SPL-TOKEN) amount (optional)
 
-**Images:**
-- [Image 1](https://github.com/nauriculus/BonkRaids/assets/24634581/b5d3c96d-05fe-4621-a623-07fc71f2494c)
-- [Image 2](https://github.com/nauriculus/BonkRaids/assets/24634581/2458f94b-7cbe-46b5-875c-c61b611d6ce8)
-- [Image 3](https://github.com/nauriculus/BonkRaids/assets/24634581/73bebe8f-3b55-4e31-98f6-545194df0384)
+**Images:*
+- https://github.com/nauriculus/BonkRaids/assets/24634581/b5d3c96d-05fe-4621-a623-07fc71f2494c
+- https://github.com/nauriculus/BonkRaids/assets/24634581/2458f94b-7cbe-46b5-875c-c61b611d6ce8
+- https://github.com/nauriculus/BonkRaids/assets/24634581/73bebe8f-3b55-4e31-98f6-545194df0384
 
 
 
