@@ -32,9 +32,11 @@ BonkRaids is a discord bot designed to enhance Twitter raiding experience within
      - `followeetag`: The twitter account to follow (optional)
      - `followamount`: Follow (SOL or SPL-TOKEN) amount (optional)
 
-  https://github.com/nauriculus/BonkRaids/assets/24634581/b5d3c96d-05fe-4621-a623-07fc71f2494c
-  https://github.com/nauriculus/BonkRaids/assets/24634581/2458f94b-7cbe-46b5-875c-c61b611d6ce8
-  https://github.com/nauriculus/BonkRaids/assets/24634581/73bebe8f-3b55-4e31-98f6-545194df0384
+  <img width="301" alt="Bildschirmfoto 2024-03-31 um 23 55 46" src="https://github.com/nauriculus/BonkRaids/assets/24634581/b5d3c96d-  05fe-4621-a623-07fc71f2494c">
+
+  <img width="409" alt="Bildschirmfoto 2024-03-30 um 13 33 55" src="https://github.com/nauriculus/BonkRaids/assets/24634581/2458f94b-7cbe-46b5-875c-c61b611d6ce8">
+
+  <img width="328" alt="Bildschirmfoto 2024-04-01 um 10 25 24" src="https://github.com/nauriculus/BonkRaids/assets/24634581/73bebe8f-3b55-4e31-98f6-545194df0384">
 
 
 
@@ -53,12 +55,12 @@ BonkRaids is a discord bot designed to enhance Twitter raiding experience within
 4. **Setup Command**
    - **Name:** `/setup`
    - **Description:** Setup the server's house wallet
-   - 
-<img width="534" alt="Bildschirmfoto 2024-04-01 um 10 07 59 (1)" src="https://github.com/nauriculus/BonkRaids/assets/24634581/5a2d5b88-90b8-4fff-89a9-c61217623bfa">
 
 5. **Housewallet Command**
    - **Name:** `/housewallet`
    - **Description:** Check the server's house wallet information
+
+<img width="534" alt="Bildschirmfoto 2024-04-01 um 10 07 59 (1)" src="https://github.com/nauriculus/BonkRaids/assets/24634581/5a2d5b88-90b8-4fff-89a9-c61217623bfa">
 
 6. **Help Command**
    - **Name:** `/help`
