@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/nauriculus/BonkRaids/assets/24634581/32fc1c10-77e8-4461-9b50-5c17a217f9a2" width="200" height="200" />
+  <img src="https://github.com/nauriculus/BonkRaids/assets/24634581/32fc1c10-77e8-4461-9b50-5c17a217f9a2" width="400" height="400" />
 </div>
 
 # BonkRaids
