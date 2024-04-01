@@ -27,10 +27,10 @@ BonkRaids is a discord bot designed to enhance Twitter raiding experience within
      - `raiders`: The max amount of raiders you want (required)
      - `rewardtype`: Raid-Type: BONK only for now (required)
      - `twitterlink`: The twitter link (required)
-     - `retweetamount`: Retweet amount (required)
-     - `likeamount`: amount (required)
+     - `retweetamount`: Reward Retweet amount (required)
+     - `likeamount`: Reward Like amount (required)
      - `followeetag`: The twitter account to follow (optional)
-     - `followamount`: Follow (SOL or SPL-TOKEN) amount (optional)
+     - `followamount`: Reward Follow amount (optional)
 
 <img width="403" alt="Bildschirmfoto 2024-03-31 um 23 48 39" src="https://github.com/nauriculus/BonkRaids/assets/24634581/f07cf532-b1ae-469a-935d-51748b52d6e1">
 
