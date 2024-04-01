@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://media.discordapp.net/attachments/1161769361334341664/1224035490207105116/Neuefs_Projekt.png?ex=661c06e2&is=660991e2&hm=eaef5902fe54b94fc35a982fb3c315cac7710dccb8e2ed75986e6b6fc860c1f6&=&format=webp&quality=lossless](https://github.com/nauriculus/BonkRaids/assets/24634581/32fc1c10-77e8-4461-9b50-5c17a217f9a2)" width="200" height="200" />
+  <img src="https://github.com/nauriculus/BonkRaids/assets/24634581/32fc1c10-77e8-4461-9b50-5c17a217f9a2" width="200" height="200" />
 </div>
 
 # BonkRaids
