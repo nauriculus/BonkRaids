@@ -33,12 +33,15 @@ BonkRaids is a discord bot designed to enhance Twitter raiding experience within
      - `followamount`: Reward Follow amount (optional)
 
 Raid Message
+
 <img width="403" alt="Bildschirmfoto 2024-03-31 um 23 48 39" src="https://github.com/nauriculus/BonkRaids/assets/24634581/f07cf532-b1ae-469a-935d-51748b52d6e1">
 
 Raid Results
+
 <img width="328" alt="Bildschirmfoto 2024-04-01 um 10 25 24" src="https://github.com/nauriculus/BonkRaids/assets/24634581/73bebe8f-3b55-4e31-98f6-545194df0384">
 
 Confirm Raids
+
 <img width="409" alt="Bildschirmfoto 2024-03-30 um 13 33 55" src="https://github.com/nauriculus/BonkRaids/assets/24634581/2458f94b-7cbe-46b5-875c-c61b611d6ce8">
 
 
