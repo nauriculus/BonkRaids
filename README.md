@@ -69,8 +69,7 @@ Confirm Raids
 
 6. **Help Command**
    - **Name:** `/help`
-   - **Description:** Gives you an overview of all commands of commands
-
+   - **Description:** Gives you an overview of all commands.
 ## Usage
 
 1. **Installation**: Clone the repository and configure the bot with necessary credentials and settings, or just skip this step and invite the bot.
