@@ -8,8 +8,6 @@ Get ready to bonk your way through tweets and earn rewards in the form of bonk t
  
 BonkRaids is a discord bot designed to enhance Twitter raiding experience within Discord servers. This bot offers a wide range of features to streamline the process of creating and managing raids.
 
-#Preview
-
 ### JS API Endpoints
 
 1. **GET /getWalletOnly**: Retrieves house wallet information associated with a UUID (Discord Guild ID).
